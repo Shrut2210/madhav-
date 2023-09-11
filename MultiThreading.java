@@ -10,7 +10,7 @@ public class MultiThreading
         SecondThread st = new SecondThread();
         Thread t2 = new Thread(st);
         t2.start();
-
+// HEwkkii
 
     }
 }
